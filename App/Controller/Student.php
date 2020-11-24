@@ -1,15 +1,11 @@
 <?php
 
-
 namespace  App\Controller;
 
 use App\Support\Database;
 
 
-/**
 
-	
-*/
 
 class Student extends Database{
 
